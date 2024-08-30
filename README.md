@@ -11,9 +11,6 @@
 
 - 🤝 I’m looking for help with [How it's done??](https://monopo.london)
 
-- 👨‍💻 All of my projects are available at [https://www.bbwebdevelop.pl](https://www.bbwebdevelop.pl)
-
-- 📫 How to reach me **bbwebdevelop@gmail.com**
 
 - ⚡ Fun fact **I can recite the first 100 digits of pi while balancing a spoon on my nose.**
 
